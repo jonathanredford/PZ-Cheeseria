@@ -14,6 +14,14 @@ A <a href="https://nextjs.org" target="_blank">Next.js</a> front end project for
 $ npm install
 ```
 
+## Environment variables
+
+Create a .env file in the project root with the following entry
+
+```
+NEXT_PUBLIC_API_SERVER_URL=http://localhost:3001
+```
+
 ## Running the app
 
 ```bash
